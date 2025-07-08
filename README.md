@@ -2,6 +2,8 @@
 
 ## Objectives
 
+<img src="logo.png" height=150 align="right"/>
+
 :dart: The goal of this short course is to introduce and explain elementary chemometric analysis methods.  We will also touch on more advanced ML approaches.  The course will cover the use of python-based tools that can accelerate your workflow and improve reproducibility. We will assume no prior knowledge or familiarity with any of these methods, tools, or mathematical background.  We will review only as much mathematics as is necessary to ground an understanding of the methods discussed since a deep understanding is not necessary for application, which is the focus of this course.
 
 :rocket: What we hope to achieve:
@@ -57,7 +59,7 @@
         * PyChemAuth
     * 🔮 [Statistics Background](https://github.com/mahynski/chemometric-carpentry/blob/main/notebooks/1.4_Statistics_Background.ipynb)
         * $\chi^2$ statistics 
-        * Baseline Performance Metrics
+        * Performance Metrics
         * Rashomon sets
         * Bias-Variance Tradeoff 
 2. ✨ [Techniques](https://github.com/mahynski/chemometric-carpentry/blob/main/notebooks/2_Techniques.ipynb)
@@ -184,3 +186,5 @@ Thanks to 👏
 * Tom Allison, thomas.allison@nist.gov
 * Bill Krekelberg, william.krekelberg@nist.gov
 * Dave Sheen, david.sheen@nist.gov
+
+The logo was designed using Google Gemini (Imagen 3) with the prompt "Design a logo for determining geographic origin using chemistry and statistical models" on Nov. 8, 2024.
